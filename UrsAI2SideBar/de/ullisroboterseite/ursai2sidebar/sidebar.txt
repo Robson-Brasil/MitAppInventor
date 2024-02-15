@@ -1,0 +1,5 @@
+WiFi::wifi::::t
+Bluetooth::bluetooth::::t
+GPS::gps_fixed::::f
+Airplane Mode::airplanemode_active::::f
+Save::save_alt::green
